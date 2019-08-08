@@ -15,5 +15,9 @@ sudo apt update
 # install sublime-text
 sudo apt install -y sublime-text
 
+echo
+
+echo '"subl" is now on the path'
+
 # remove yourself
 rm $0
